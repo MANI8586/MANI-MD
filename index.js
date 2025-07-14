@@ -85,7 +85,7 @@ const {
   ║ > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝓂𝒶𝓃𝒾𝒾       
   ╚═════════════════╝
 `;
-  conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/atby2t.png` }, caption: up })
+  conn.sendMessage("923069558757@s.whatsapp.net", { image: { url: `https://files.catbox.moe/atby2t.png` }, caption: up })
   
   }
   })
